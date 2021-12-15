@@ -1,3 +1,4 @@
+Python domin main.py
 echo "# domin.py" >> README.md
 git init
 git add README.md
@@ -60,3 +61,5 @@ SCATTER_PRIZES=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 #格子是否无效(0有效 1无效)
 GRID_DISABLES=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 GRID_DISABLES_FREE=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fi
+Python domin main.py
